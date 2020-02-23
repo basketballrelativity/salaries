@@ -1,5 +1,5 @@
 # salaries
-Exploratory Analysis of NBA Salary Data
+Exploratory Analysis of WNBA and NBA Salary Data
 
 ## WNBA
 ## Teams
